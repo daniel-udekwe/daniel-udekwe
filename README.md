@@ -19,7 +19,7 @@
 
 <hr>
 
-----
+
 ### 🥽  Headsets :
 <div>
   <img src="https://user-images.githubusercontent.com/35714752/151714646-5da7d4d2-75b7-423b-8c56-7ad8d709ed0e.png" title="Hololens" **alt="Hololens" width="50" height="50"/>&nbsp;
