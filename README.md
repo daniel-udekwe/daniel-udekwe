@@ -38,7 +38,9 @@
   <img src="https://user-images.githubusercontent.com/35714752/151714646-5da7d4d2-75b7-423b-8c56-7ad8d709ed0e.png" title="Hololens" **alt="Hololens" width="50" height="50"/>&nbsp;
   <img src="https://th.bing.com/th/id/R.10b4a27df121c45b7a15d2ce6f5b6fdf?rik=Q3nV7pdLu2jnoA&riu=http%3a%2f%2fimg.wennermedia.com%2fsocial%2fmagic-leap-leaper-logo-a5527131-eb6b-4de6-a8e9-6154832a903e.png&ehk=QpnW14p6zVa%2fXuFgvfFaiPkf3sFNFLsEDQDaeCLmd34%3d&risl=&pid=ImgRaw&r=0" title="MagicLeap" **alt="MagicLeap" width="100" height="50"/>&nbsp;
   <img src="https://www.mixr.ru/wp-content/uploads/2020/09/nreal-logo-2048x694.jpg" title="nreal" **alt="nreal" width="180" height="50"/>&nbsp;
-</div>    
+</div>
+<img src="https://en.wikipedia.org/wiki/File:Kinova_Robotics_logo.png" title="nreal" **alt="nreal" width="180" height="50"/>&nbsp;
+</div>
 
 ---
 ### :robot: Robots :
