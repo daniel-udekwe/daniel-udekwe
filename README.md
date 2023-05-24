@@ -40,28 +40,29 @@
 ---
 ### 🥽  Headsets :
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Vive-logo.png" title="nreal" **alt="nreal" width="180" height="50"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/35714752/151714646-5da7d4d2-75b7-423b-8c56-7ad8d709ed0e.png" title="Hololens" **alt="Hololens" width="50" height="50"/>&nbsp;
   <img src="https://th.bing.com/th/id/R.10b4a27df121c45b7a15d2ce6f5b6fdf?rik=Q3nV7pdLu2jnoA&riu=http%3a%2f%2fimg.wennermedia.com%2fsocial%2fmagic-leap-leaper-logo-a5527131-eb6b-4de6-a8e9-6154832a903e.png&ehk=QpnW14p6zVa%2fXuFgvfFaiPkf3sFNFLsEDQDaeCLmd34%3d&risl=&pid=ImgRaw&r=0" title="MagicLeap" **alt="MagicLeap" width="100" height="50"/>&nbsp;
-  <img src="https://www.mixr.ru/wp-content/uploads/2020/09/nreal-logo-2048x694.jpg" title="nreal" **alt="nreal" width="180" height="50"/>&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Vive-logo.png" title="nreal" **alt="nreal" width="180" height="50"/>&nbsp;
- 
+  <img src="https://www.mixr.ru/wp-content/uploads/2020/09/nreal-logo-2048x694.jpg" title="nreal" **alt="nreal" width="180" height="50"/>&nbsp; 
 </div>
 
 
 ---
 ### :robot: Robots :
 <div>
+   <img src="https://upload.wikimedia.org/wikipedia/en/e/ee/Kinova_Robotics_logo.png" **alt="nreal" width="180" height="100"/>&nbsp;
   <img src="https://www.turtlebot.com/assets/images/turtlebot_logo.png" title="Turtlebot2" **alt="Turtlebot2" width="200" height="90"/>&nbsp;
 <!--  <img src="https://th.bing.com/th/id/R.a46b9567251f9907141a4f4cfcbe0920?rik=apXIrzBlYnArLA&riu=http%3a%2f%2fwww.komprad.vizz.pl%2fsklep%2fzdjecia%2fev3-logo.png&ehk=3%2bv6v4TivKhLek9tBfGQC%2fI2I7d5XN9a7CWetOV9xhU%3d&risl=&pid=ImgRaw&r=0" title="LEGO-EV3" **alt="LEGO-EV3" width="300" height="90"/>&nbsp; -->
   <img src="https://download.logo.wine/logo/Anki_(company)/Anki_(company)-Logo.wine.png" title="ANKI" **alt="ANKI" width="150" height="100"/>&nbsp;
   <img src="https://www.knottsco.com/hs-fs/hubfs/Mfg-Logos/UR_Logotype.jpg?width=640&name=UR_Logotype.jpg" title="UR5" **alt="UR5" width="250" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/ee/Kinova_Robotics_logo.png" **alt="nreal" width="180" height="100"/>&nbsp;
+
 </div>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+ <img src="https://assets-global.website-files.com/5fcde6f56fdac5769934eead/61aaaf246186f310eba805ba_Logo_new-01.svg" title="Android" **alt="Android" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" **alt="Android" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" **alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
