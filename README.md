@@ -50,7 +50,7 @@
 ### :robot: Robots :
 <div>
   <img src="https://www.turtlebot.com/assets/images/turtlebot_logo.png" title="Turtlebot2" **alt="Turtlebot2" width="200" height="90"/>&nbsp;
-  <img src="https://th.bing.com/th/id/R.a46b9567251f9907141a4f4cfcbe0920?rik=apXIrzBlYnArLA&riu=http%3a%2f%2fwww.komprad.vizz.pl%2fsklep%2fzdjecia%2fev3-logo.png&ehk=3%2bv6v4TivKhLek9tBfGQC%2fI2I7d5XN9a7CWetOV9xhU%3d&risl=&pid=ImgRaw&r=0" title="LEGO-EV3" **alt="LEGO-EV3" width="300" height="90"/>&nbsp;
+<!--  <img src="https://th.bing.com/th/id/R.a46b9567251f9907141a4f4cfcbe0920?rik=apXIrzBlYnArLA&riu=http%3a%2f%2fwww.komprad.vizz.pl%2fsklep%2fzdjecia%2fev3-logo.png&ehk=3%2bv6v4TivKhLek9tBfGQC%2fI2I7d5XN9a7CWetOV9xhU%3d&risl=&pid=ImgRaw&r=0" title="LEGO-EV3" **alt="LEGO-EV3" width="300" height="90"/>&nbsp; -->
   <img src="https://download.logo.wine/logo/Anki_(company)/Anki_(company)-Logo.wine.png" title="ANKI" **alt="ANKI" width="150" height="100"/>&nbsp;
   <img src="https://www.knottsco.com/hs-fs/hubfs/Mfg-Logos/UR_Logotype.jpg?width=640&name=UR_Logotype.jpg" title="UR5" **alt="UR5" width="250" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/e/ee/Kinova_Robotics_logo.png" **alt="nreal" width="180" height="100"/>&nbsp;
