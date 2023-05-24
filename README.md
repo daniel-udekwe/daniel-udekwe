@@ -4,6 +4,8 @@
  
  <p>- <i>I am a PhD Student at Virginia Tech with a research interest in Human-Robot Interaction. I am particularly interested in learning how robotics and autonoumous systems including AR technology can be employed to improve farmworker's efficiency in fruit crops production 🙂</i></p>
 
+<p>- <i>I am a PhD Student at Virginia Tech with a research interest in Human-Robot Interaction. I am particularly interested in learning how robotics and autonoumous systems including AR technology can be employed to improve farmworker's efficiency in fruit crops production 🙂</i></p>
+
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
