@@ -62,7 +62,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
- <img src="https://assets-global.website-files.com/5fcde6f56fdac5769934eead/61aaaf246186f310eba805ba_Logo_new-01.svg" title="Android" **alt="Android" width="80" height="40"/>&nbsp;
+ <img src="https://assets-global.website-files.com/5fcde6f56fdac5769934eead/61aaaf246186f310eba805ba_Logo_new-01.svg" title="Shapr3d" **alt="Android" width="80" height="40"/>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/CATIA_Logotype_RGB_Blue.png" title="Shapr3d" **alt="Android" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" **alt="Android" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" **alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
