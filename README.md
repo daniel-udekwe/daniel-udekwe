@@ -86,7 +86,7 @@
 
 ---
 ### 🎮 Mini AR Demos !!!:
-
+<!--
 <p align="center">
   <img src="https://github.com/DreVinciCode/Unity_Hologram/blob/main/Demo/liveportal.gif?raw=true" width="300">
   <img src="https://github.com/DreVinciCode/Unity_KinovaGen3LiteAR/blob/main/Demos/currentfuture.gif?raw=true" width="300">
@@ -102,3 +102,4 @@
   <img src="https://github.com/DreVinciCode/ATLA-Elements/blob/main/Demo/earthbending.gif?raw=true" width="300" /> 
   <img src="https://github.com/DreVinciCode/Naruto_Rasenshuriken/blob/main/Demo/demo.gif?raw=true" width="300" /> 
 </p>
+-->
