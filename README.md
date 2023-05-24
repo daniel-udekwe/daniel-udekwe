@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/daniel-a-udekwe-19a2bbb2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discordapp.com/users/885073575839670302">
+  <a href="https://discordapp.com/users/daario#9226">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/_danyyboi">
