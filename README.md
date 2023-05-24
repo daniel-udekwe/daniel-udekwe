@@ -4,8 +4,6 @@
  
  <p>- <i>I am a PhD Student at Virginia Tech with a research interest in Human-Robot Interaction. I am particularly interested in learning how robotics and autonoumous systems including AR technology can be employed to improve farmworker's efficiency in fruit crops production 🙂</i></p>
 
-<p>- <i>I am a PhD Student at Virginia Tech with a research interest in Human-Robot Interaction. I am particularly interested in learning how robotics and autonoumous systems including AR technology can be employed to improve farmworker's efficiency in fruit crops production 🙂</i></p>
-
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
@@ -13,12 +11,11 @@
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
+- 🔧 Passionate about bridging the physical and virtual worlds through immersive experiences. Currently focused on integrating real-time point cloud data from Velodyne LiDAR into Unity scenes, enabling interactive and immersive interactions with objects in local environments. Seeking to push the boundaries of augmented reality and computer vision to create transformative user experiences. Let's bring the digital and physical realms together!"
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 📖  I’m looking for help with finding ways to integrate gesture recognition for a more natural HRI experience. I want to explore EMG devices that recognize common human gestures for enhanced command signals with robots. Integrated EMG devices with AR head mounted devices that enables eye gaze capabilities can enable multi-robot interactions.
+
+- 📫 How to reach me ...daudekwe@vt.edu
 
 <hr>
 
