@@ -13,20 +13,20 @@
 
 - 🔧 Passionate about bridging the physical and virtual worlds through immersive experiences. Currently focused on integrating real-time point cloud data from Velodyne LiDAR into Unity scenes, enabling interactive and immersive interactions with objects in local environments. Seeking to push the boundaries of augmented reality and computer vision to create transformative user experiences. Let's bring the digital and physical realms together!"
 
-- 📖  I’m looking for help with finding ways to integrate gesture recognition for a more natural HRI experience. I want to explore EMG devices that recognize common human gestures for enhanced command signals with robots. Integrated EMG devices with AR head mounted devices that enables eye gaze capabilities can enable multi-robot interactions.
+- 📖  I'm seeking assistance in discovering methods to incorporate gesture recognition for a more seamless human-robot interaction (HRI) experience. I'm interested in exploring EMG devices that can identify typical human gestures to provide improved command signals for controlling robots. By combining integrated EMG devices with AR head-mounted devices that facilitate eye gaze capabilities, we can enable interactions with multiple robots simultaneously.
 
 - 📫 How to reach me ...daudekwe@vt.edu
 
 <hr>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andre-cleaver/">
+  <a href="https://www.linkedin.com/in/daniel-a-udekwe-19a2bbb2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC3vl2Jahn0QfuCG32fmbW0Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://discordapp.com/users/885073575839670302">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://twitter.com/andrecleaver">
+  <a href="https://twitter.com/danyyboi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
